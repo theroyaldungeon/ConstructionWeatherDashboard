@@ -1,0 +1,10 @@
+{
+  "description": "Track critical weather conditions and hazards for construction sites in the Everglades, enabling workers and supervisors to ensure safety and efficiency.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
